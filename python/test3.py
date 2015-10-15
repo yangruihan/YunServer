@@ -110,8 +110,8 @@ def sign(url):
 
 mail_to_list = list()
 mail_host = 'smtp.qq.com'   # 设置服务器
-mail_user = '770362426'     # 用户名
-mail_pass = 'yrh0306'       # 密码
+mail_user = ''     # 用户名
+mail_pass = ''       # 密码
 mail_postfix = 'qq.com'     # 发件箱后缀
 
 
